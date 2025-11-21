@@ -1,4 +1,4 @@
-﻿TerraGauge: Precision Automotive Data Display
+Precision Automotive Data Display
 Project Overview
 TerraGauge is a compact, open-source display unit built on the ESP8266 platform, designed to provide critical vehicle and environmental data to the driver. It combines essential navigation metrics (GPS) with real-time stability information (IMU), specifically focusing on vehicle pitch (incline/decline).
 Usefulness
@@ -117,3 +117,4 @@ Mock Variable
 	Live Date/Time strings
 	HOME_LAT / HOME_LNG
 	(Keep) Hardcoded Target Location
+
